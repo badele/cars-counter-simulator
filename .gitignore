@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# cars-counter-simulator
+.virtualenv
+image_cars_*
